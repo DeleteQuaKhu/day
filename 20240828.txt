@@ -1,0 +1,11 @@
+lib git
+hoangchungk53qx1
+
+pure function
+
+compare
+oop,compostion over inheritance
+UI react, flutter, swiftUI
+
+condensed matter theory - 1
+p-th Brillouin zones
